@@ -1,0 +1,56 @@
+.Heading{
+    background-color: #DA853D;
+    width: 100%;
+    height: 100px;
+}
+.instructors_txt{
+    text-align: center;
+    padding-top: 24px;
+    color: white;
+}
+.inst_main{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #FDF6EA;
+}
+.card_div{
+    padding-bottom: 16px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.main{
+    padding-top: 132px;
+}
+.root{
+    max-Width: 100%;
+}
+.icon_color{
+    color: #DA853D;
+}
+.txt_font{
+    font-size: 13px;
+}
+.media {
+    height: 344
+  }
+/* @media (max-width: 1000px){
+    .root{
+        max-width: 100%;
+    }
+} */
+.imgdiv{
+    align-items: center;
+    text-align: center;
+}
+.imgs{
+    height: 190px;
+}
+.cardsmain{
+    padding-bottom: 16px;
+}
+.cardsmain:hover{
+background-color:#FDF6EA;
+}

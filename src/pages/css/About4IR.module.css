@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: "#D1E8E2"
+}
+
+.box {
+    background-image: url(../../images/cover5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center,
+}
+
+.boxHeading {
+    background: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: Montserrat;
+    letter-spacing: 0.1em;
+}
+
+.box2 {
+    width: 80%;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.box2Text {
+    font-family: "Montserrat sans-serif";
+    color: #000000;
+    font-size: 48px;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 38px !important;
+}
+
+.p {
+    font-size: 18px !important;
+}
